@@ -38,5 +38,3 @@ sc start DllInjector
 DLLInjectorCom.exe {dll_path} {pid}
 
 DONE!!!
-
-
